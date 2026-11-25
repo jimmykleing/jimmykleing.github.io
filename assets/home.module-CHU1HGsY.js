@@ -1,1 +1,0 @@
-var e={hero:`_hero_sjxl4_1`,eyebrow:`_eyebrow_sjxl4_9`,headline:`_headline_sjxl4_16`,intro:`_intro_sjxl4_26`,status:`_status_sjxl4_32`};export{e as t};
