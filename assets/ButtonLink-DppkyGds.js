@@ -1,0 +1,1 @@
+import{t as e}from"./lib-jEURfsHK.js";import{t}from"./jsx-runtime-BfZR1MgN.js";var n={button:`_button_gzgza_1`,primary:`_primary_gzgza_19`,quiet:`_quiet_gzgza_28`},r=t();function i({to:t,children:i,variant:a=`primary`,onClick:o}){return(0,r.jsx)(e,{to:t,className:`${n.button} ${n[a]}`,onClick:o,children:i})}export{i as t};
