@@ -1,0 +1,1 @@
+import{t as e}from"./StepList.module-CMyLvwCr.js";import{t}from"./jsx-runtime-BfZR1MgN.js";var n=t();function r({items:t}){return(0,n.jsx)(`ul`,{className:e.list,children:t.map(t=>(0,n.jsxs)(`li`,{className:e.step,children:[(0,n.jsx)(`h3`,{className:e.title,children:t.title}),(0,n.jsx)(`p`,{className:e.body,children:t.body})]},t.title))})}export{r as t};
