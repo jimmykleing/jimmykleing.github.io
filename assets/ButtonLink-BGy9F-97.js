@@ -1,0 +1,1 @@
+import{t as e}from"./lib-BOO9uCm5.js";import{t}from"./jsx-runtime-BfZR1MgN.js";var n={button:`_button_qemwi_1`,primary:`_primary_qemwi_19`,quiet:`_quiet_qemwi_28`,light:`_light_qemwi_38`,lightQuiet:`_lightQuiet_qemwi_47`},r=t();function i({to:t,children:i,variant:a=`primary`,onClick:o}){return(0,r.jsx)(e,{to:t,className:`${n.button} ${n[a]}`,onClick:o,children:i})}export{i as t};
