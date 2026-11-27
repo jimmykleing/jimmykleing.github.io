@@ -1,0 +1,1 @@
+var e={name:`FillBetter`,origin:`https://fillbetter.es`,preLaunch:!0,features:{waitlistForm:!1,demoForm:!1,contactEmail:!1},contactEmail:`hola@fillbetter.es`};function t(e,t=!1){return e||t}var n=`fb-locale`;export{n,e as r,t};

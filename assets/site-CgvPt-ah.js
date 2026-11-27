@@ -1,1 +1,0 @@
-var e={name:`FillBetter`,origin:`https://fillbetter.es`,preLaunch:!0,features:{waitlistForm:!1,demoForm:!1,contactEmail:!1},contactEmail:`hola@fillbetter.es`},t=`fb-locale`;export{e as n,t};
